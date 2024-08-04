@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DailyTheKisu
+- 👀 I’m interested of Coding Java
+- 🌱 I’m currently learning Java, Python, Javaskript.
+- 😄 I love Finland and Cats
+- ⚡ Fun Fact: I dont know anything about coding. Just coding.
